@@ -8,7 +8,7 @@
 
 ![Обзор адаптации](docs/screenshots/overview.png)
 
-[Запись демонстрации, 41 секунда](docs/demo.webm) · [Отчёт для HR](HR_REPORT.md) · [Проверки](docs/TESTING.md)
+[Смотреть демонстрацию, 41 секунда](https://tgt.myvelum.com/video.html) · [Отчёт для HR](HR_REPORT.md) · [Проверки](docs/TESTING.md)
 
 ## Запуск
 
