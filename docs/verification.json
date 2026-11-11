@@ -1,0 +1,25 @@
+{
+  "tested_url": "https://tgt.myvelum.com/",
+  "date": "2026-11-11",
+  "node": "22.23.4",
+  "playwright": "1.58.2",
+  "browser": "Chromium headless",
+  "domain_tests": {
+    "passed": 17,
+    "failed": 0
+  },
+  "live_browser_tests": {
+    "startTime": "2026-11-11T09:36:22.525Z",
+    "duration": 12371.109,
+    "expected": 8,
+    "skipped": 0,
+    "unexpected": 0,
+    "flaky": 0
+  },
+  "viewport_desktop": "1440x1000",
+  "viewport_mobile": "390x844",
+  "http_redirect": 308,
+  "https_status": 200,
+  "video_seconds": 40.64,
+  "limits": "Test runner on VPS through public domain. Not a test on physical mobile devices or a different external network."
+}
