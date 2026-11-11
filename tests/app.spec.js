@@ -26,7 +26,7 @@ test("complete checkin → manager action → employee confirmation → reload",
   page.on("pageerror", (e) => errors.push(e.message));
   await page.goto("/");
   await expect(
-    page.getByRole("heading", { name: "Хороший старт — общая работа" }),
+    page.getByRole("heading", { name: "Кому нужна помощь сегодня" }),
   ).toBeVisible();
   await person(page);
   await page

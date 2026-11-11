@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="18" fill="#205d4c"/><path d="M18 41V25h12M28 41V20h17v21" fill="none" stroke="#dbefb0" stroke-width="5" stroke-linecap="round"/><path d="m39 14 6 6 6-6" fill="none" stroke="#dbefb0" stroke-width="4"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" role="img" aria-label="Старт 90">
+  <rect width="80" height="80" rx="5" fill="#d7f45a"/>
+  <path d="M14 58h52" stroke="#172124" stroke-width="2"/>
+  <path d="M14 65h18" stroke="#172124" stroke-width="5"/>
+  <path d="M38 65h12" stroke="#172124" stroke-width="5"/>
+  <path d="M56 65h10" stroke="#172124" stroke-width="5"/>
+  <text x="11" y="51" fill="#172124" font-family="Arial,Helvetica,sans-serif" font-size="43" font-weight="800" letter-spacing="-5">90</text>
+</svg>
